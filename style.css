@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+#inp {
+    height: 100px;
+    width: 400px;
+    background-color: black;
+    color: white;
+    border: 5px black;
+    font-size: 45px;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+  }
+button{
+    background-color: black;
+    color: white;
+    height: 100px;
+    width: 70px;
+    border: 2px ;
+    font-size: 30px;
+}
+#re{
+    margin-left: 10px;
+}
+.but{
+    color: orange;
+}
+#inp {
+    resize: none; /* Disable the user's ability to resize the textarea */
+    /* Hide vertical scrollbar */
+    height: 180px;
+    width: 350px;
+  }
+
+  
+  
